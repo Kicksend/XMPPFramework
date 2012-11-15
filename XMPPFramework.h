@@ -26,7 +26,4 @@
 #import "XMPPReconnect.h"
 
 #import "XMPPPubSub.h"
-
-#import "XMPPJabberRPCModule.h"
-#import "XMPPIQ+JabberRPC.h"
-#import "XMPPIQ+JabberRPCResponse.h"
+#import "XMPPRoster.h"
